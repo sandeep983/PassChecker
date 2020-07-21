@@ -2,6 +2,13 @@
 
 It is a Password Checker script, it will check and display the count of the given passwords that how many times they are hacked.
 
+Modules used
+-requests
+-hashlib
+-sys
+
+Note- Intsall the modules if you need
+
 What you need?
 -Python3
 
